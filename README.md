@@ -1,1 +1,1 @@
-# getting-started-fauna-nodejs
+# Getting started with FaunaDB and Node.js using Fastify
